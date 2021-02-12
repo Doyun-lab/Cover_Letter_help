@@ -1,4 +1,7 @@
-#  Cover-Letter Guide 
+#  Cover-Letter Guide  
+본 프로젝트는 Gitlab에서 진행됐었습니다.  
+
+## Gitlab link : https://gitlab.com/DOYUN_K/2020_text_mining  
 
 ## Participant 
 
